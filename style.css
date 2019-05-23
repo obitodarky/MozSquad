@@ -27,11 +27,7 @@
     border-radius: 13px;
     width: 50%;
 }
-/* .content{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-} */
+
 .info{
     border: .15rem solid black;
     border-radius: 5px;
@@ -39,10 +35,3 @@
     margin-left: 135px;
     margin-top: 25px;
 }
-/* .border-cls{
-    margin-top: 25px;
-    border: .15rem solid black;
-    border-radius: 5px;
-    width: 76%;
-    margin-left: 135px;
-} */
